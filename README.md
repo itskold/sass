@@ -5,6 +5,7 @@ Site à reproduire en bootstrap, fontawesome et sass
 
 Consignes : 
 
+- Cloner ce repo pour réaliser l'exercice.
 - Importer **bootstrap** dans le fichier *sass*.
 - Importer **fontawesome** dans le fichier *sass*
 - Faire un commit par section
