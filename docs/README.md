@@ -1,7 +1,7 @@
 # sass-site-flati-design
 Site à reproduire en bootstrap, fontawesome et sass
 
-<img src="./public/images/final-website.png" width=50%>
+<img src="./final-website.png" width=50%>
 
 Consignes : 
 
